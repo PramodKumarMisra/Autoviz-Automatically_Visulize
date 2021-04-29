@@ -12,4 +12,16 @@ Data  visualization is technique which can help to summaries complex data  into 
         Some times it gives error like "No module found:xlrd then you should install this lib using pip cmd ex."pip install xlrd"
                        
                        
-                       
+        
+        
+        
+        
+###### Lets talk about argument which is passed into Autoviz Function:
+## Sep:-Separator of data sets. In this datasets we have used to ",".
+## target:-which is target variable in dataset
+## chart_format:-which format do you want.
+## max_row_analyzed:-Define the number of rows do you want to analyzed.
+## max_cols_analyzed:-Define the number of cols do you want to analyzed.
+
+
+###### It is capable of adapting to any number of different data contexts such as regression, classification, or even time-series data. Go ahead and explore this library using different datasets.
