@@ -16,7 +16,7 @@ Data  visualization is technique which can help to summaries complex data  into 
         
         
         
-###### Lets talk about argument which is passed into Autoviz Function:
+# Lets talk about argument which is passed into Autoviz Function:
 ## Sep:-Separator of data sets. In this datasets we have used to ",".
 ## target:-which is target variable in dataset
 ## chart_format:-which format do you want.
