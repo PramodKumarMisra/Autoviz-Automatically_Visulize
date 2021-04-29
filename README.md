@@ -9,7 +9,7 @@ Data  visualization is technique which can help to summaries complex data  into 
 
 # Installation 
 ## 1.Open cmd promp and type "pip install autoviz"
-                       ######Some times it gives error like "No module found:xlrd then you should install this lib using pip cmd ex."pip install xlrd"
+        Some times it gives error like "No module found:xlrd then you should install this lib using pip cmd ex."pip install xlrd"
                        
                        
                        
