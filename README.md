@@ -1,6 +1,8 @@
 # Autoviz-Automatically_Visulize
-Data  visualization is technique which can help to summaries complex data  into graphical views, Using Autoviz we will do >>>
-##Data##
+Data  visualization is technique which can help to summaries complex data  into graphical views, Using Autoviz we will do.
+
+
+![Generic badge](https://img.shields.io/badge/AutoViz-v1-orange.svg)                            ![Generic badge](https://img.shields.io/badge/Automatecally-lib-green.svg)                                      ![Generic badge](https://img.shields.io/badge/Python-v3-orange.svg)
 
 # Introduction
 
